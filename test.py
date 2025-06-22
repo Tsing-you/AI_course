@@ -1,4 +1,4 @@
-# 本项目的软件部分已上传至github，具体见https://github.com/Tsing-you/contest1
+# 本项目的软件部分已上传至github，具体见https://github.com/Tsing-you/AI_course
 import pandas as pd
 import matplotlib.pyplot as plt
 from zhipuai import ZhipuAI
